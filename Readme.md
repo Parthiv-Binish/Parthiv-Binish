@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=40&fontAlignY=35&desc=Innovative%20Solutions%20&%20Creative%20Projects&descAlignY=60&descAlign=62" />
-</p>
 <!-- Pixel-style animated banner (replace with your own if needed) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Parthiv%20Binish&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20&%20PHP%20Specialist&descAlignY=60&descAlign=62" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parthiv-binish&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Welcome%20to%20my%20profile-Heart-pink" />
 </p>
 
 <h3 align="center">Turning Ideas into Scalable Solutions | Progressive Software Solutions & Training</h3>
@@ -29,6 +31,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,python,java,cpp,c,photoshop,sass,electron" />
 </p>
 
+
+
 ---
 
 ### 📊 GitHub Stats  
@@ -44,4 +48,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthiv-binish&theme=tokyonight" />
 </p>
 
----
