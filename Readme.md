@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/pzwGK4dlC3a8/giphy.gif" alt="Pixelated Mickey Mouse" width="200" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=40&fontAlignY=35&desc=Innovative%20Solutions%20&%20Creative%20Projects&descAlignY=60&descAlign=62" />
 </p>
 <!-- Pixel-style animated banner (replace with your own if needed) -->
 <p align="center">
@@ -45,8 +45,3 @@
 </p>
 
 ---
-
-### 🐍 GitHub Contribution Snake (Pixel Style)  
-<p align="center">
-  <img src="https://github.com/parthiv-binish/parthiv-binish/raw/output/github-contribution-grid-snake.svg" />
-</p>
