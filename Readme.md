@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.giphy.com/media/pzwGK4dlC3a8/giphy.gif" alt="Pixelated Mickey Mouse" width="200" />
+</p>
 <!-- Pixel-style animated banner (replace with your own if needed) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Parthiv%20Binish&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20&%20PHP%20Specialist&descAlignY=60&descAlign=62" />
