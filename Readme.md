@@ -14,7 +14,7 @@
 
 
 
-<h3 align="center">Turning Ideas into Scalable Solutions | Progressive Software Solutions & Training</h3>
+<h3 align="center">Turning Ideas into Scalable Solutions | Tata Consultancy Services</h3>
 
 
 
