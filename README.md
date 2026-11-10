@@ -25,31 +25,45 @@ I also build web applications and backend services — from community platforms 
 
 ## Network & Data Center Operations
 
-Tools and platforms used in my operations workflow:
+Tools and platforms used in my TCS NetOps and infrastructure operations workflow:
 
 <div align="center">
 
-| Platform / Tool | Area |
-|:---:|:---|
-| **SiteScan Web** | Infrastructure / site monitoring |
+| Tool / Platform | Operations area |
+|:---|:---|
+| **Cisco DNA Center (DNAC)** | Network assurance, visibility and troubleshooting |
+| **Cisco vManage** | SD-WAN monitoring and management |
+| **ThousandEyes** | Network and application experience monitoring |
+| **Datadog** | Infrastructure monitoring, dashboards and alerts |
+| **Nagios Core** | Infrastructure and service monitoring |
+| **ServiceNow** | Incident tracking, updates and service workflows |
+| **Nexthink** | Digital employee experience and endpoint insights |
+| **Infoblox** | DDI — DNS, DHCP and IP address management |
 | **Data Center Expert** | Data center infrastructure monitoring |
 | **DCIM** | Data Center Infrastructure Management |
-| **Infoblox** | DDI — DNS, DHCP and IP address management |
+| **SiteScan Web (SSWEB)** | Site / infrastructure monitoring |
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SiteScan%20Web-Monitoring-1677B8?style=for-the-badge" alt="SiteScan Web" />
+  <img src="https://img.shields.io/badge/Cisco-DNAC%20%7C%20vManage-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco DNAC and vManage" />
+  <img src="https://img.shields.io/badge/ThousandEyes-Network%20Visibility-5B2C83?style=for-the-badge" alt="ThousandEyes" />
+  <img src="https://img.shields.io/badge/Datadog-Monitoring-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+  <img src="https://img.shields.io/badge/Nagios_Core-Monitoring-000000?style=for-the-badge" alt="Nagios Core" />
+  <img src="https://img.shields.io/badge/ServiceNow-Incident%20Management-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/Nexthink-DEX-00AEEF?style=for-the-badge" alt="Nexthink" />
+  <img src="https://img.shields.io/badge/Infoblox-DDI%20%7C%20DNS%20%7C%20DHCP-00A3E0?style=for-the-badge" alt="Infoblox" />
   <img src="https://img.shields.io/badge/Data%20Center%20Expert-DC%20Monitoring-008A9B?style=for-the-badge" alt="Data Center Expert" />
   <img src="https://img.shields.io/badge/DCIM-Infrastructure-475569?style=for-the-badge" alt="DCIM" />
-  <img src="https://img.shields.io/badge/Infoblox-DDI%20%7C%20DNS%20%7C%20DHCP-00A3E0?style=for-the-badge" alt="Infoblox" />
+  <img src="https://img.shields.io/badge/SiteScan%20Web-Monitoring-1677B8?style=for-the-badge" alt="SiteScan Web" />
 </p>
 
 **Operational responsibilities**
-- Monitor and review network / data-center alerts and incident reports.
-- Validate reported issues and coordinate with site teams and vendors.
-- Track incident progress, communicate updates, and support timely resolution.
-- Work with infrastructure monitoring, DCIM, and DNS / DHCP / IPAM platforms.
+- Monitor network, infrastructure, and data-center alerts and incident reports.
+- Review monitoring dashboards and validate reported issues.
+- Coordinate with site teams, ISPs, and vendors for troubleshooting and escalation.
+- Track incidents in service workflows, communicate updates, and support service restoration.
+- Work across network assurance, SD-WAN, DDI, endpoint experience, and data-center monitoring platforms.
 
 ## Development Stack
 
